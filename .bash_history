@@ -32,3 +32,18 @@ cd Python-project1
 sud ll
 ll
 sudo cd python-project1
+sudo git status
+sudo git remote origin https://github.com/Pruthvikasipeta/Mycossproject1.git
+sudo git remote pruthvi https://github.com/Pruthvikasipeta/Mycossproject1.git
+sudo git remote Mycossproject1 https://github.com/Pruthvikasipeta/Mycossproject1.git
+sudo git remote -v
+git remote add origin https://github.com/Pruthvikasipeta/Mycossproject1.git
+git branch -M main
+git push -u origin main
+sudo git status
+ls
+ll
+sudo git log
+sudo git remote add pruthvi https://github.com/Pruthvikasipeta/Mycossproject1.git
+sudo git remote -v
+sudo git push -u pruthvi master
